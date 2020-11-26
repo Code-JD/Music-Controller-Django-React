@@ -1,3 +1,35 @@
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 11:121-141 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 13:202-222 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:237-257 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 14:30-50 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 17:208-228 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 20:56-76 */
+
+/*! CommonJS bailout: exports.unstable_now(...) prevents optimization as exports is passed as call context at 21:238-258 */
+
+/*! CommonJS bailout: module.exports is used directly at 103:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 12:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 16:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 18:2-16 */
+
+/*! CommonJS bailout: module.exports is used directly at 1:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 25:206-220 */
+
+/*! CommonJS bailout: module.exports is used directly at 290:68-82 */
+
+/*! CommonJS bailout: module.exports is used directly at 65:0-14 */
+
+/*! CommonJS bailout: module.exports is used directly at 6:0-14 */
+
 /*! default exports */
 
 /*! dynamic exports */
